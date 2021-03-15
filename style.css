@@ -1,0 +1,242 @@
+body{
+    background-color: blanchedalmond;
+}
+.heading img{
+    position: relative;
+    margin-left: 50px;
+}
+h2{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+}
+.videos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.contact h3 {
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+a{
+    text-decoration: none;
+}
+.video36{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video35{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video34{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video33{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video32{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video31{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video30{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video29{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video28{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video27{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video26{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video25{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video24{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video23{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video22{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video21{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video20{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video19{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video18{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video17{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video16{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video15{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video14{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video13{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video12{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video11{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video10{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video9{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video8{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video7{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video6{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video5{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video4{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video3{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video2{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.video1{
+    padding: 10px;
+    width: 316px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
